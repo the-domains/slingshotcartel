@@ -1,0 +1,14 @@
+layout_spectrum: 0.9876477
+color:
+  saturation: 0.7099037
+  lightness: 0.3886997
+  brandStrength: 0.510205
+  rhythmicContrast: 0.3540082
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.3934179
+name: slingshotcartel
